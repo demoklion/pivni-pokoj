@@ -1,1 +1,10 @@
+# npm installed packages
 node_modules
+
+# 'package.json' tells npm what to install.
+# Use 'npm install' to install packages locally.
+# This file keeps a record of exact local versions of packages, which differ by OS and in time.
+package_lock.json
+
+# VS Code workspace settings
+pivni-pokoj.code-workspace
